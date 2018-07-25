@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.zentere.websocket.WebSocketDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.192 s - in com.zentere.websocket.WebSocketDemoApplicationTests
